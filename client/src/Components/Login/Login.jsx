@@ -20,7 +20,7 @@ const Login = () => {
 
     const loginUser = (e) => {
         e.preventDefault();
-        Axios.post('http://localhost:3002/login', {
+        Axios.post('https://xenon-stack-task1-server.vercel.app/?vercelToolbarCode=KmCFX8CLNm8Q5dM/login', {
             LoginUserName: loginUserName,
             LoginPassword: loginPassword
         }).then((response) => {

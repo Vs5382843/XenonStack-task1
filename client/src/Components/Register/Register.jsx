@@ -20,7 +20,7 @@ const Register = () => {
 
     const createUser = (e) => {
         e.preventDefault()
-        Axios.post('http://localhost:3002/register', {
+        Axios.post('https://xenon-stack-task1-server.vercel.app/?vercelToolbarCode=KmCFX8CLNm8Q5dM/register', {
             Email: email,
             UserName: userName,
             Password: password
