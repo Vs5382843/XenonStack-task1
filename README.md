@@ -1,4 +1,4 @@
-<H1 align ="center" > MERN LOGIN & REGISTER DASHBOARD  </h1>
+<H1 align ="center" > XENON STACK LOGIN & REGISTER DASHBOARD  </h1>
 <h5  align ="center"> 
 Fullstack open source login & register dashboard application made with MongoDb, Express, React & Nodejs (MERN) </h5>
 <br/>
